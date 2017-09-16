@@ -1,0 +1,17 @@
+{
+    "name": "@mesos-playground/seneca-proxies",
+    "version": "1.0.0",
+    "description": "Seneca proxies for testing mesos service discovery.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "seneca"
+    ],
+    "author": "Ian Laird <en0@mail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "seneca": "^3.4.2"
+    }
+}
