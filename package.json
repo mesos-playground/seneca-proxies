@@ -1,6 +1,6 @@
 {
     "name": "@mesos-playground/seneca-proxies",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Seneca proxies for testing mesos service discovery.",
     "main": "index.js",
     "scripts": {
@@ -14,7 +14,6 @@
     "dependencies": {
         "seneca": "^3.4.2"
     },
-
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/mesos-playground/seneca-proxies.git"
