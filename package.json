@@ -13,5 +13,14 @@
     "license": "MIT",
     "dependencies": {
         "seneca": "^3.4.2"
-    }
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/mesos-playground/seneca-proxies.git"
+    },
+    "bugs": {
+        "url": "https://github.com/mesos-playground/seneca-proxies/issues"
+    },
+    "homepage": "https://github.com/mesos-playground/seneca-proxies#readme"
 }
