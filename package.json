@@ -1,25 +1,25 @@
 {
-    "name": "@mesos-playground/seneca-proxies",
-    "version": "1.1.0",
-    "description": "Seneca proxies for testing mesos service discovery.",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "seneca"
-    ],
-    "author": "Ian Laird <en0@mail.com>",
-    "license": "MIT",
-    "dependencies": {
-        "seneca": "^3.4.2"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+ssh://git@github.com/mesos-playground/seneca-proxies.git"
-    },
-    "bugs": {
-        "url": "https://github.com/mesos-playground/seneca-proxies/issues"
-    },
-    "homepage": "https://github.com/mesos-playground/seneca-proxies#readme"
+  "name": "@mesos-playground/seneca-proxies",
+  "version": "1.2.0",
+  "description": "Seneca proxies for testing mesos service discovery.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "seneca"
+  ],
+  "author": "Ian Laird <en0@mail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "seneca": "^3.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mesos-playground/seneca-proxies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mesos-playground/seneca-proxies/issues"
+  },
+  "homepage": "https://github.com/mesos-playground/seneca-proxies#readme"
 }
